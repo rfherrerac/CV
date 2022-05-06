@@ -1,4 +1,4 @@
-[![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
+[![Header]( "Header")](https://www.creative-tim.com/)
 
 Hola ✋!  
 I am [Ron Herrera](https://scholar.google.com/citations?hl=en&user=OQ0qlpAAAAAJ&view_op=list_works&sortby=pubdate)</>
