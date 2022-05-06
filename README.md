@@ -1,13 +1,13 @@
 [![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
 
-Hi there ✋!  
-We are [Creative Tim](https://www.creative-tim.com/)<img src="https://www.creative-tim.com/assets/logo/logo-ct-white-170d794e447f75aec55c6effdfbedced9dd268ceceece152675ff8f9891e3588.svg" />
+Hola ✋!  
+I am [Ron Herrera](https://scholar.google.com/citations?hl=en&user=OQ0qlpAAAAAJ&view_op=list_works&sortby=pubdate)</>
 
-## About Us
+## About Me
 
-Creating your web design from scratch with dedicated designers can be very expensive. Using our solutions you don't have to worry about design. Save time and money by focusing on the business model.
+-
 
-## Our expertise
+## My expertise
 
 - Create UI Frameworks
   -  We have created the tools that will help you in your next project. From plugins to complex kits, we've got you covered in all areas regarding front-end development.
@@ -16,23 +16,8 @@ Creating your web design from scratch with dedicated designers can be very expen
 - Power Hackathons
   -  We've sponsored many hackathons around the world with the tools that they need to make awesome web applications. Our UI tools go hand in hand with startups.
 
-## Our technologies
 
-Our products are built on top of modern frameworks. Having the coded and the designed versions for the same framework, your designers and developers will talk the same language.
-
-<p>
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/vue.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/angular.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/react.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sass.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/ps.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sketch.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/figma.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/icon-laravel.jpg" width="67.5px" />
-</p>
-
-## Our products
+## My products
 
 Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 -------------- | ----------------- | -------------------- | ---------------------
@@ -41,7 +26,7 @@ Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 ✅ [Live Preview](https://demos.creative-tim.com/material-kit/index.html) | ✅ [Live Preview](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html) | ✅ [Live Preview](https://demos.creative-tim.com/soft-ui-react-native/) | ✅ [Live Preview](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
 ![Material Kit 2](https://s3.amazonaws.com/creativetim_bucket/products/38/original/material-kit.jpg?1633601280) | ![Soft UI Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816) | ![Soft UI React Native](https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346)| ![Tailwind Starter Kit](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/creative-tim/opt_tsp_tailwindcss_thumbnail.jpg)
 
-[View All Products](https://www.creative-tim.com/templates)
+[View All Products]()
 
 ## Our courses
 
@@ -77,7 +62,7 @@ Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 - [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
 - [Get Discount](https://www.creative-tim.com/coupon)
 
-## Contact us
+## Contact me
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/creativetimofficial) [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CreativeTim) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/creative-tim-1b54778b) [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w) <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
